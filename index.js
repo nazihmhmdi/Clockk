@@ -32,7 +32,7 @@
       }, 0)
   }());
 
-
+  
   // greet
   var myDate = new Date();
     var hrs = myDate.getHours();
@@ -47,7 +47,7 @@
         greet = 'Good Evening';
 
     document.getElementById('lblGreetings').innerHTML =
-        '<b>' + greet + '</b>, bbyyy!';
+        '<b>' + greet + '</b>, diahh!';
 
 
 // clock
