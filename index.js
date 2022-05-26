@@ -4,7 +4,7 @@
         hour = minute * 60,
         day = hour * 24;
 
-  let birthday = "May 12, 2022 00:00:00",
+  let birthday = "September 23, 2022 00:00:00",
       countDown = new Date(birthday).getTime(),
       x = setInterval(function() {    
 
@@ -47,7 +47,7 @@
         greet = 'Good Evening';
 
     document.getElementById('lblGreetings').innerHTML =
-        '<b>' + greet + '</b>, diahh!';
+        '<b>' + greet + '</b>, ayuuuu!';
 
 
 // clock
